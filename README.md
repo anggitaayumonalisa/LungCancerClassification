@@ -49,7 +49,7 @@ pip install streamlit tensorflow numpy matplotlib
 
 ## Usage
 
-1. Upload an image (JPG, PNG, JPEG).
+1. Upload an image (JPEG only).
 2. The system will process the image and predict the cancer type probabilities.
 3. The results will be displayed in a table along with a pie chart visualization.
 
